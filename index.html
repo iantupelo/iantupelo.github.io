@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+        <title>Cville Session Tune List</title>
+
+        <link type="text/css" rel="stylesheet" href="https://unpkg.com/bootstrap/dist/css/bootstrap.min.css"/>
+        <link type="text/css" rel="stylesheet" href="https://unpkg.com/bootstrap-vue@latest/dist/bootstrap-vue.css"/>
+
+        <script src="https://unpkg.com/vue"></script>
+        <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+        <script src="https://unpkg.com/babel-polyfill@latest/dist/polyfill.min.js"></script>
+        <script src="https://unpkg.com/bootstrap-vue@latest/dist/bootstrap-vue.js"></script>
+    </head>
+
+    <body>
+        <div id="app">
+            <b-container>
+                <p>
+                    Total tunes played: {{ items.length }}<br />
+                    since April 2016<br />
+                    last update April 2018<br />
+                    <b-form-input v-model="filter" placeholder="Type to Search" />
+                </p>
+                <b-table striped hover
+                    :sort-by.sync="sortBy"
+                    :sort-desc.sync="sortDesc"
+                    :items="items"
+                    :fields="fields"
+                    :filter="filter">
+                </b-table>
+            </b-container>
+        </div>
+
+        <script>
+            window.app = new Vue({
+                el: "#app",
+                data: {
+                    sortBy: 'name',
+                    sortDesc: false,
+                    filter: null,
+                    fields: [
+                        { key: 'name', sortable: true },
+                        { key: 'type', sortable: true },
+                        { key: 'popularity', sortable: true },
+                        { key: 'weeksPlayed', sortable: true },
+                        { key: 'lastPlayed', sortable: true },
+                    ],
+                    items: [],
+                },
+                mounted() {
+                    axios.get("tunes.json")
+                    .then(response => {this.items = response.data})
+                }
+            })
+        </script>
+    </body>
+</html>
