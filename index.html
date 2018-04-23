@@ -22,9 +22,21 @@
                 <p>
                     Total tunes played: {{ items.length }}<br />
                     since April 2016<br />
-                    last update April 2018<br />
-                    <b-form-input v-model="filter" placeholder="Type to Search" />
+                    last update April 2018
                 </p>
+                <b-btn v-b-toggle.collapse1_inner size="sm">Popularity icons explained</b-btn>
+                <b-collapse id=collapse1_inner class="mt-2">
+                    <b-card>
+                        <ul>
+                            <li>'!' -> new (or returning) tune in the last six months</li>
+                            <li>'+' -> been playing this more in the last six months</li>
+                            <li>'=' -> been holding steady on this one in the last six months</li>
+                            <li>'-' -> been playing this less in the last six months</li>
+                            <li>'--' -> we haven't played this one in over a year</li>
+                        </ul>
+                    </b-card>
+                </b-collapse>
+                <b-form-input v-model="filter" placeholder="Type to Search"></b-form-input>
                 <b-table striped hover
                     :sort-by.sync="sortBy"
                     :sort-desc.sync="sortDesc"
