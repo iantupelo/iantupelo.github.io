@@ -21,8 +21,8 @@
             <b-container>
                 <p>
                     Total tunes played: {{ items.length }}<br />
-                    since April 2016<br />
-                    last update April 2018
+                    since April 2016 (total weeks recorded: {{ numWeeks }})<br />
+                    last update 17 April 2018
                 </p>
                 <b-btn v-b-toggle.explainer size="sm">Popularity icons explained</b-btn>
                 <b-collapse id=explainer class="mt-2">
@@ -62,10 +62,11 @@
                         { key: 'lastPlayed', sortable: true },
                     ],
                     items: [],
+                    numWeeks: 97
                 },
                 mounted() {
                     axios.get("tunes.json")
-                    .then(response => {this.items = response.data})
+                    .then(response => { this.items = response.data; })
                 }
             })
         </script>
