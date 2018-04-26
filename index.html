@@ -20,7 +20,6 @@
         <div id="app">
             <b-container>
                 <p>
-                    Total tunes played: {{ items.length }}<br />
                     since April 2016 (total weeks recorded: {{ weeksRecorded }})<br />
                     last update: {{ lastDate }}
                 </p>
@@ -37,7 +36,8 @@
                     </b-card>
                 </b-collapse>
                 <b-form-input v-model="filter" placeholder="Type to Search"></b-form-input>
-                <b-table striped hover
+                <p>Currently showing {{ filteredCount }} tunes.</p>
+                <b-table striped hover v-on:filtered="getFilteredCount"
                     :sort-by.sync="sortBy"
                     :sort-desc.sync="sortDesc"
                     :items="items"
@@ -62,13 +62,18 @@
                         { key: 'lastPlayed', sortable: true },
                     ],
                     items: [],
+                    filteredCount: 0,
                     weeksRecorded: 0,
                     lastDate: ''
+                },
+                methods: {
+                    getFilteredCount: function(filteredItems) { this.filteredCount = filteredItems.length; }
                 },
                 mounted() {
                     axios.get('tunes.json')
                     .then(response => {
                         this.items = response.data.tuneList;
+                        this.filteredCount = this.items.length;
                         this.weeksRecorded = response.data.weeksRecorded;
                         this.lastDate = response.data.lastDate;
                     })
