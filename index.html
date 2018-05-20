@@ -10,7 +10,7 @@
         <link type="text/css" rel="stylesheet" href="https://unpkg.com/bootstrap/dist/css/bootstrap.min.css"/>
         <link type="text/css" rel="stylesheet" href="https://unpkg.com/bootstrap-vue@latest/dist/bootstrap-vue.css"/>
 
-        <script src="https://unpkg.com/vue"></script>
+        <script src="https://unpkg.com/vue@2.5.16/dist/vue.min.js"></script>
         <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
         <script src="https://unpkg.com/babel-polyfill@latest/dist/polyfill.min.js"></script>
         <script src="https://unpkg.com/bootstrap-vue@latest/dist/bootstrap-vue.js"></script>
@@ -24,7 +24,7 @@
                     last update: {{ lastDate }}
                 </p>
                 <b-btn v-b-toggle.explainer size="sm">Popularity icons explained</b-btn>
-                <b-collapse id=explainer class="mt-2">
+                <b-collapse id=explainer>
                     <b-card>
                         <ul>
                             <li>'!' -> new (or returning) tune in the last six months</li>
@@ -37,12 +37,30 @@
                 </b-collapse>
                 <b-form-input v-model="filter" placeholder="Type to Search"></b-form-input>
                 <p>Currently showing {{ filteredCount }} tunes.</p>
-                <b-table striped hover v-on:filtered="getFilteredCount"
+                <b-table striped hover
+                    @filtered="getFilteredCount"
                     :sort-by.sync="sortBy"
                     :sort-desc.sync="sortDesc"
                     :items="items"
                     :fields="fields"
                     :filter="filter">
+                    <!-- <template slot="showDetails" slot-scope="row">
+                        <div @click.stop="row.toggleDetails">
+                            <div v-if="row.detailsShowing">
+                                <img src="arrow_down.svg"></img>
+                            </div>
+                            <div v-else>
+                                    <img src="arrow_right.svg"></img>
+                            </div>
+                        </div>
+                    </template>
+                    <template slot="row-details" slot-scope="row">
+                      <b-card>
+                        <ul>
+                          <li v-for="(value, key) in row.item" :key="key">{{ key }}: {{ value}}</li>
+                        </ul>
+                      </b-card>
+                    </template> -->
                 </b-table>
             </b-container>
         </div>
@@ -55,6 +73,7 @@
                     sortDesc: true,
                     filter: null,
                     fields: [
+                        { key: 'showDetails', sortable: false, label: "" },
                         { key: 'name', sortable: true },
                         { key: 'type', sortable: true },
                         { key: 'popularity', sortable: true },
