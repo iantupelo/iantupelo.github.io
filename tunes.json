@@ -1,13 +1,13 @@
 {
-  "lastDate": "2018-09-11",
+  "lastDate": "2018-10-09",
   "tuneList": [
     {
-      "lastPlayed": "2017-05-30",
+      "lastPlayed": "2018-10-09",
       "name": "A Fair Wind",
-      "popularity": "--",
+      "popularity": "+",
       "tuneKeys": [],
       "type": "reel",
-      "weeksPlayed": 1
+      "weeksPlayed": 2
     },
     {
       "lastPlayed": "2018-01-30",
@@ -20,7 +20,7 @@
     {
       "lastPlayed": "2017-11-07",
       "name": "Abbey",
-      "popularity": "-",
+      "popularity": "--",
       "tuneKeys": [],
       "type": "reel",
       "weeksPlayed": 3
@@ -250,12 +250,12 @@
       "weeksPlayed": 13
     },
     {
-      "lastPlayed": "2018-08-07",
+      "lastPlayed": "2018-10-09",
       "name": "Banks Of The Illen",
       "popularity": "+",
       "tuneKeys": [],
       "type": "reel",
-      "weeksPlayed": 7
+      "weeksPlayed": 8
     },
     {
       "lastPlayed": "2017-04-04",
@@ -266,12 +266,12 @@
       "weeksPlayed": 1
     },
     {
-      "lastPlayed": "2018-08-21",
+      "lastPlayed": "2018-10-09",
       "name": "Banshee",
       "popularity": "=",
       "tuneKeys": [],
       "type": "reel",
-      "weeksPlayed": 49
+      "weeksPlayed": 50
     },
     {
       "lastPlayed": "2016-09-20",
@@ -280,6 +280,14 @@
       "tuneKeys": [],
       "type": "slip jig",
       "weeksPlayed": 3
+    },
+    {
+      "lastPlayed": "2018-10-09",
+      "name": "Basket Of Oysters",
+      "popularity": "!",
+      "tuneKeys": [],
+      "type": "jig",
+      "weeksPlayed": 1
     },
     {
       "lastPlayed": "2018-03-13",
@@ -306,12 +314,12 @@
       "weeksPlayed": 16
     },
     {
-      "lastPlayed": "2018-07-24",
+      "lastPlayed": "2018-10-09",
       "name": "Behind The Ditch In Pairc Anna",
       "popularity": "+",
       "tuneKeys": [],
       "type": "reel",
-      "weeksPlayed": 2
+      "weeksPlayed": 3
     },
     {
       "lastPlayed": "2018-06-26",
@@ -338,12 +346,12 @@
       "weeksPlayed": 2
     },
     {
-      "lastPlayed": "2018-08-21",
+      "lastPlayed": "2018-10-09",
       "name": "Biddy Martin's",
       "popularity": "-",
       "tuneKeys": [],
       "type": "polka",
-      "weeksPlayed": 11
+      "weeksPlayed": 12
     },
     {
       "lastPlayed": "2018-09-04",
@@ -354,12 +362,12 @@
       "weeksPlayed": 5
     },
     {
-      "lastPlayed": "2018-09-04",
+      "lastPlayed": "2018-10-09",
       "name": "Bill Sullivan's",
       "popularity": "=",
       "tuneKeys": [],
       "type": "polka",
-      "weeksPlayed": 10
+      "weeksPlayed": 11
     },
     {
       "lastPlayed": "2017-05-30",
@@ -388,7 +396,7 @@
     {
       "lastPlayed": "2018-04-17",
       "name": "Black Pat's",
-      "popularity": "!",
+      "popularity": "-",
       "tuneKeys": [],
       "type": "reel",
       "weeksPlayed": 1
@@ -420,7 +428,7 @@
     {
       "lastPlayed": "2018-08-07",
       "name": "Blackberry Blossom",
-      "popularity": "=",
+      "popularity": "+",
       "tuneKeys": [],
       "type": "reel",
       "weeksPlayed": 8
@@ -444,7 +452,7 @@
     {
       "lastPlayed": "2018-09-11",
       "name": "Blarney Pilgrim",
-      "popularity": "-",
+      "popularity": "=",
       "tuneKeys": [],
       "type": "jig",
       "weeksPlayed": 39
@@ -532,7 +540,7 @@
     {
       "lastPlayed": "2018-07-10",
       "name": "Boys Of Malin",
-      "popularity": "=",
+      "popularity": "-",
       "tuneKeys": [],
       "type": "reel",
       "weeksPlayed": 21
@@ -540,7 +548,7 @@
     {
       "lastPlayed": "2018-07-31",
       "name": "Boys Of The Town",
-      "popularity": "+",
+      "popularity": "=",
       "tuneKeys": [],
       "type": "jig",
       "weeksPlayed": 11
@@ -562,12 +570,12 @@
       "weeksPlayed": 23
     },
     {
-      "lastPlayed": "2018-07-31",
+      "lastPlayed": "2018-10-09",
       "name": "Bride's Favorite",
       "popularity": "+",
       "tuneKeys": [],
       "type": "jig",
-      "weeksPlayed": 2
+      "weeksPlayed": 3
     },
     {
       "lastPlayed": "2017-09-12",
@@ -648,14 +656,14 @@
       "weeksPlayed": 9
     },
     {
-      "lastPlayed": "2018-04-17",
+      "lastPlayed": "2018-10-09",
       "name": "Cat In The Hopper (in Em)",
       "popularity": "=",
       "tuneKeys": [
         "Em"
       ],
       "type": "jig",
-      "weeksPlayed": 2
+      "weeksPlayed": 3
     },
     {
       "lastPlayed": "2018-09-04",
@@ -714,20 +722,20 @@
       "weeksPlayed": 1
     },
     {
-      "lastPlayed": "2018-07-17",
+      "lastPlayed": "2018-10-09",
       "name": "Christy Barry's #1",
       "popularity": "=",
       "tuneKeys": [],
       "type": "jig",
-      "weeksPlayed": 9
+      "weeksPlayed": 10
     },
     {
-      "lastPlayed": "2017-11-21",
+      "lastPlayed": "2018-10-09",
       "name": "Christy Barry's #2",
-      "popularity": "-",
+      "popularity": "=",
       "tuneKeys": [],
       "type": "jig",
-      "weeksPlayed": 8
+      "weeksPlayed": 9
     },
     {
       "lastPlayed": "2018-05-08",
@@ -850,12 +858,12 @@
       "weeksPlayed": 32
     },
     {
-      "lastPlayed": "2018-08-07",
+      "lastPlayed": "2018-10-09",
       "name": "Coppers And Brass",
-      "popularity": "-",
+      "popularity": "=",
       "tuneKeys": [],
       "type": "jig",
-      "weeksPlayed": 35
+      "weeksPlayed": 36
     },
     {
       "lastPlayed": "2016-09-27",
@@ -916,7 +924,7 @@
     {
       "lastPlayed": "2018-07-17",
       "name": "Cricket's March Over The Salt Box",
-      "popularity": "=",
+      "popularity": "-",
       "tuneKeys": [],
       "type": "march",
       "weeksPlayed": 10
@@ -940,7 +948,7 @@
     {
       "lastPlayed": "2018-04-24",
       "name": "Crooked Road To Dublin",
-      "popularity": "=",
+      "popularity": "-",
       "tuneKeys": [],
       "type": "reel",
       "weeksPlayed": 6
@@ -980,7 +988,7 @@
     {
       "lastPlayed": "2018-09-04",
       "name": "Cup Of Tea",
-      "popularity": "-",
+      "popularity": "=",
       "tuneKeys": [],
       "type": "reel",
       "weeksPlayed": 32
@@ -1053,7 +1061,7 @@
       "weeksPlayed": 11
     },
     {
-      "lastPlayed": "2018-09-11",
+      "lastPlayed": "2018-10-09",
       "name": "Devanney's Goat (in C,D)",
       "popularity": "+",
       "tuneKeys": [
@@ -1061,7 +1069,7 @@
         "D"
       ],
       "type": "reel",
-      "weeksPlayed": 13
+      "weeksPlayed": 14
     },
     {
       "lastPlayed": "2018-03-06",
@@ -1114,7 +1122,7 @@
     {
       "lastPlayed": "2018-04-17",
       "name": "Donegal",
-      "popularity": "=",
+      "popularity": "-",
       "tuneKeys": [],
       "type": "highland",
       "weeksPlayed": 8
@@ -1192,20 +1200,20 @@
       "weeksPlayed": 1
     },
     {
-      "lastPlayed": "2018-09-11",
+      "lastPlayed": "2018-10-09",
       "name": "Dusty Windowsills",
-      "popularity": "=",
+      "popularity": "+",
       "tuneKeys": [],
       "type": "jig",
-      "weeksPlayed": 37
+      "weeksPlayed": 38
     },
     {
-      "lastPlayed": "2018-09-04",
+      "lastPlayed": "2018-10-09",
       "name": "Earl's Chair",
       "popularity": "=",
       "tuneKeys": [],
       "type": "reel",
-      "weeksPlayed": 39
+      "weeksPlayed": 40
     },
     {
       "lastPlayed": "2018-04-03",
@@ -1402,7 +1410,7 @@
     {
       "lastPlayed": "2018-04-17",
       "name": "Five Mile Chase",
-      "popularity": "=",
+      "popularity": "-",
       "tuneKeys": [],
       "type": "reel",
       "weeksPlayed": 2
@@ -1477,7 +1485,7 @@
     {
       "lastPlayed": "2017-11-07",
       "name": "Free In The Harbor",
-      "popularity": "-",
+      "popularity": "--",
       "tuneKeys": [],
       "type": "song",
       "weeksPlayed": 1
@@ -1493,7 +1501,7 @@
     {
       "lastPlayed": "2018-09-11",
       "name": "Gallager's Frolics",
-      "popularity": "+",
+      "popularity": "=",
       "tuneKeys": [],
       "type": "jig",
       "weeksPlayed": 33
@@ -1541,7 +1549,7 @@
     {
       "lastPlayed": "2018-04-17",
       "name": "Garrett's Wedding",
-      "popularity": "=",
+      "popularity": "-",
       "tuneKeys": [],
       "type": "slip jig",
       "weeksPlayed": 2
@@ -1555,12 +1563,12 @@
       "weeksPlayed": 1
     },
     {
-      "lastPlayed": "2018-09-11",
+      "lastPlayed": "2018-10-09",
       "name": "Geese In The Bog",
       "popularity": "=",
       "tuneKeys": [],
       "type": "jig",
-      "weeksPlayed": 30
+      "weeksPlayed": 31
     },
     {
       "lastPlayed": "2018-03-13",
@@ -1571,12 +1579,12 @@
       "weeksPlayed": 5
     },
     {
-      "lastPlayed": "2018-08-21",
+      "lastPlayed": "2018-10-09",
       "name": "Ger The Rigger",
       "popularity": "-",
       "tuneKeys": [],
       "type": "polka",
-      "weeksPlayed": 12
+      "weeksPlayed": 13
     },
     {
       "lastPlayed": "2018-07-31",
@@ -1589,7 +1597,7 @@
     {
       "lastPlayed": "2018-04-17",
       "name": "Give Us A Drink Of Water",
-      "popularity": "!",
+      "popularity": "-",
       "tuneKeys": [],
       "type": "slip jig",
       "weeksPlayed": 1
@@ -1663,7 +1671,7 @@
     {
       "lastPlayed": "2018-04-17",
       "name": "Gooseberry Bush",
-      "popularity": "!",
+      "popularity": "-",
       "tuneKeys": [],
       "type": "reel",
       "weeksPlayed": 1
@@ -1695,7 +1703,7 @@
     {
       "lastPlayed": "2018-04-17",
       "name": "Green Fields Of America",
-      "popularity": "=",
+      "popularity": "-",
       "tuneKeys": [],
       "type": "reel",
       "weeksPlayed": 3
@@ -1751,7 +1759,7 @@
     {
       "lastPlayed": "2018-04-24",
       "name": "Hag At The Churn",
-      "popularity": "=",
+      "popularity": "-",
       "tuneKeys": [],
       "type": "jig",
       "weeksPlayed": 9
@@ -1767,7 +1775,7 @@
     {
       "lastPlayed": "2018-04-17",
       "name": "Handsome Young Maidens",
-      "popularity": "=",
+      "popularity": "-",
       "tuneKeys": [],
       "type": "jig",
       "weeksPlayed": 3
@@ -1783,7 +1791,7 @@
     {
       "lastPlayed": "2018-04-17",
       "name": "Hardiman The Fiddler",
-      "popularity": "+",
+      "popularity": "-",
       "tuneKeys": [],
       "type": "slip jig",
       "weeksPlayed": 4
@@ -1925,12 +1933,12 @@
       "weeksPlayed": 2
     },
     {
-      "lastPlayed": "2018-09-11",
+      "lastPlayed": "2018-10-09",
       "name": "Humours Of Ballyloughlin",
       "popularity": "=",
       "tuneKeys": [],
       "type": "jig",
-      "weeksPlayed": 13
+      "weeksPlayed": 14
     },
     {
       "lastPlayed": "2018-05-01",
@@ -2149,6 +2157,14 @@
       "weeksPlayed": 1
     },
     {
+      "lastPlayed": "2018-10-09",
+      "name": "Irishman's Heart To The Ladies",
+      "popularity": "!",
+      "tuneKeys": [],
+      "type": "jig",
+      "weeksPlayed": 1
+    },
+    {
       "lastPlayed": "2018-04-03",
       "name": "Is The Big Man Within",
       "popularity": "-",
@@ -2173,12 +2189,12 @@
       "weeksPlayed": 1
     },
     {
-      "lastPlayed": "2018-08-21",
+      "lastPlayed": "2018-10-09",
       "name": "Jack Roe",
       "popularity": "+",
       "tuneKeys": [],
       "type": "reel",
-      "weeksPlayed": 4
+      "weeksPlayed": 5
     },
     {
       "lastPlayed": "2018-07-31",
@@ -2191,7 +2207,7 @@
     {
       "lastPlayed": "2018-04-17",
       "name": "James Byrne's",
-      "popularity": "!",
+      "popularity": "-",
       "tuneKeys": [],
       "type": "jig",
       "weeksPlayed": 1
@@ -2213,12 +2229,12 @@
       "weeksPlayed": 9
     },
     {
-      "lastPlayed": "2018-08-21",
+      "lastPlayed": "2018-10-09",
       "name": "Jerry's Beaver Hat",
       "popularity": "+",
       "tuneKeys": [],
       "type": "jig",
-      "weeksPlayed": 20
+      "weeksPlayed": 21
     },
     {
       "lastPlayed": "2018-09-04",
@@ -2242,7 +2258,7 @@
     {
       "lastPlayed": "2018-04-17",
       "name": "Jim Donohue's",
-      "popularity": "+",
+      "popularity": "-",
       "tuneKeys": [],
       "type": "reel",
       "weeksPlayed": 2
@@ -2317,7 +2333,7 @@
     {
       "lastPlayed": "2018-04-17",
       "name": "John Stenson's #1",
-      "popularity": "=",
+      "popularity": "-",
       "tuneKeys": [],
       "type": "reel",
       "weeksPlayed": 8
@@ -2325,7 +2341,7 @@
     {
       "lastPlayed": "2018-05-22",
       "name": "John Stenson's #2",
-      "popularity": "=",
+      "popularity": "-",
       "tuneKeys": [],
       "type": "reel",
       "weeksPlayed": 12
@@ -2341,7 +2357,7 @@
     {
       "lastPlayed": "2018-04-24",
       "name": "John Walsh's #1",
-      "popularity": "=",
+      "popularity": "-",
       "tuneKeys": [],
       "type": "polka",
       "weeksPlayed": 2
@@ -2349,7 +2365,7 @@
     {
       "lastPlayed": "2018-04-24",
       "name": "John Walsh's #2",
-      "popularity": "=",
+      "popularity": "-",
       "tuneKeys": [],
       "type": "polka",
       "weeksPlayed": 2
@@ -2357,7 +2373,7 @@
     {
       "lastPlayed": "2018-04-24",
       "name": "John Walsh's #3",
-      "popularity": "!",
+      "popularity": "-",
       "tuneKeys": [],
       "type": "polka",
       "weeksPlayed": 1
@@ -2443,23 +2459,23 @@
       "weeksPlayed": 2
     },
     {
-      "lastPlayed": "2018-08-21",
+      "lastPlayed": "2018-10-09",
       "name": "Julia Delaney's",
       "popularity": "=",
       "tuneKeys": [],
       "type": "reel",
-      "weeksPlayed": 31
+      "weeksPlayed": 32
     },
     {
       "lastPlayed": "2018-04-17",
       "name": "Katie's Fancy",
-      "popularity": "!",
+      "popularity": "-",
       "tuneKeys": [],
       "type": "jig",
       "weeksPlayed": 1
     },
     {
-      "lastPlayed": "2018-09-11",
+      "lastPlayed": "2018-10-09",
       "name": "Kerfunten (in D,G)",
       "popularity": "=",
       "tuneKeys": [
@@ -2467,7 +2483,7 @@
         "G"
       ],
       "type": "jig",
-      "weeksPlayed": 18
+      "weeksPlayed": 19
     },
     {
       "lastPlayed": "2018-07-24",
@@ -2518,12 +2534,12 @@
       "weeksPlayed": 9
     },
     {
-      "lastPlayed": "2018-09-11",
+      "lastPlayed": "2018-10-09",
       "name": "Killavil",
       "popularity": "+",
       "tuneKeys": [],
       "type": "jig",
-      "weeksPlayed": 8
+      "weeksPlayed": 9
     },
     {
       "lastPlayed": "2016-10-04",
@@ -2590,12 +2606,12 @@
       "weeksPlayed": 1
     },
     {
-      "lastPlayed": "2018-08-07",
+      "lastPlayed": "2018-10-09",
       "name": "Lady Anne Montgomery",
-      "popularity": "=",
+      "popularity": "-",
       "tuneKeys": [],
       "type": "reel",
-      "weeksPlayed": 31
+      "weeksPlayed": 32
     },
     {
       "lastPlayed": "2017-02-07",
@@ -2706,7 +2722,7 @@
     {
       "lastPlayed": "2018-05-29",
       "name": "Leslie's March",
-      "popularity": "+",
+      "popularity": "=",
       "tuneKeys": [],
       "type": "jig",
       "weeksPlayed": 8
@@ -2752,12 +2768,12 @@
       "weeksPlayed": 16
     },
     {
-      "lastPlayed": "2018-07-10",
+      "lastPlayed": "2018-10-09",
       "name": "Lord Inchiquin",
       "popularity": "+",
       "tuneKeys": [],
       "type": "o'carolan",
-      "weeksPlayed": 3
+      "weeksPlayed": 4
     },
     {
       "lastPlayed": "2018-09-04",
@@ -2810,7 +2826,7 @@
     {
       "lastPlayed": "2018-05-01",
       "name": "Maid Behind The Bar",
-      "popularity": "=",
+      "popularity": "+",
       "tuneKeys": [],
       "type": "reel",
       "weeksPlayed": 13
@@ -2994,7 +3010,7 @@
     {
       "lastPlayed": "2018-04-17",
       "name": "Mick O'Connor's",
-      "popularity": "!",
+      "popularity": "-",
       "tuneKeys": [],
       "type": "reel",
       "weeksPlayed": 1
@@ -3018,7 +3034,7 @@
     {
       "lastPlayed": "2018-09-04",
       "name": "Miss Mcleod's",
-      "popularity": "=",
+      "popularity": "+",
       "tuneKeys": [],
       "type": "reel",
       "weeksPlayed": 5
@@ -3042,7 +3058,7 @@
     {
       "lastPlayed": "2018-08-07",
       "name": "Mist Covered Mountain",
-      "popularity": "=",
+      "popularity": "-",
       "tuneKeys": [],
       "type": "jig",
       "weeksPlayed": 18
@@ -3072,12 +3088,12 @@
       "weeksPlayed": 1
     },
     {
-      "lastPlayed": "2018-09-11",
+      "lastPlayed": "2018-10-09",
       "name": "Monaghan",
       "popularity": "+",
       "tuneKeys": [],
       "type": "jig",
-      "weeksPlayed": 36
+      "weeksPlayed": 37
     },
     {
       "lastPlayed": "2017-08-22",
@@ -3096,12 +3112,12 @@
       "weeksPlayed": 26
     },
     {
-      "lastPlayed": "2018-09-11",
+      "lastPlayed": "2018-10-09",
       "name": "Morning Star",
       "popularity": "=",
       "tuneKeys": [],
       "type": "reel",
-      "weeksPlayed": 36
+      "weeksPlayed": 37
     },
     {
       "lastPlayed": "2018-09-04",
@@ -3120,12 +3136,12 @@
       "weeksPlayed": 2
     },
     {
-      "lastPlayed": "2018-07-10",
+      "lastPlayed": "2018-10-09",
       "name": "Mountain Road",
       "popularity": "-",
       "tuneKeys": [],
       "type": "reel",
-      "weeksPlayed": 56
+      "weeksPlayed": 57
     },
     {
       "lastPlayed": "2018-07-31",
@@ -3240,12 +3256,12 @@
       "weeksPlayed": 1
     },
     {
-      "lastPlayed": "2018-08-07",
+      "lastPlayed": "2018-10-09",
       "name": "Ne'Er Shall I Wean Her",
       "popularity": "+",
       "tuneKeys": [],
       "type": "jig",
-      "weeksPlayed": 4
+      "weeksPlayed": 5
     },
     {
       "lastPlayed": "2017-08-29",
@@ -3300,7 +3316,7 @@
     {
       "lastPlayed": "2018-04-17",
       "name": "New Century",
-      "popularity": "=",
+      "popularity": "-",
       "tuneKeys": [],
       "type": "hornpipe",
       "weeksPlayed": 2
@@ -3308,7 +3324,7 @@
     {
       "lastPlayed": "2018-04-24",
       "name": "New Copperplate",
-      "popularity": "!",
+      "popularity": "-",
       "tuneKeys": [],
       "type": "reel",
       "weeksPlayed": 1
@@ -3388,7 +3404,7 @@
     {
       "lastPlayed": "2018-07-17",
       "name": "O'Keefe's",
-      "popularity": "+",
+      "popularity": "=",
       "tuneKeys": [],
       "type": "slide",
       "weeksPlayed": 5
@@ -3418,12 +3434,12 @@
       "weeksPlayed": 1
     },
     {
-      "lastPlayed": "2018-07-24",
+      "lastPlayed": "2018-10-09",
       "name": "Off She Goes",
-      "popularity": "!",
+      "popularity": "+",
       "tuneKeys": [],
       "type": "jig",
-      "weeksPlayed": 1
+      "weeksPlayed": 2
     },
     {
       "lastPlayed": "2018-09-04",
@@ -3442,12 +3458,12 @@
       "weeksPlayed": 1
     },
     {
-      "lastPlayed": "2018-09-04",
+      "lastPlayed": "2018-10-09",
       "name": "Old Bush",
       "popularity": "-",
       "tuneKeys": [],
       "type": "reel",
-      "weeksPlayed": 24
+      "weeksPlayed": 25
     },
     {
       "lastPlayed": "2018-05-22",
@@ -3495,7 +3511,7 @@
     {
       "lastPlayed": "2017-10-31",
       "name": "Oro Se",
-      "popularity": "-",
+      "popularity": "--",
       "tuneKeys": [],
       "type": "song",
       "weeksPlayed": 1
@@ -3559,7 +3575,7 @@
     {
       "lastPlayed": "2018-04-17",
       "name": "Paddy Fahy's #2",
-      "popularity": "=",
+      "popularity": "-",
       "tuneKeys": [],
       "type": "hornpipe",
       "weeksPlayed": 9
@@ -3664,7 +3680,7 @@
       "weeksPlayed": 9
     },
     {
-      "lastPlayed": "2018-07-24",
+      "lastPlayed": "2018-10-09",
       "name": "Peeler's Jacket (in D,G)",
       "popularity": "=",
       "tuneKeys": [
@@ -3672,12 +3688,12 @@
         "G"
       ],
       "type": "reel",
-      "weeksPlayed": 12
+      "weeksPlayed": 13
     },
     {
       "lastPlayed": "2018-07-24",
       "name": "Peg Ryan's",
-      "popularity": "=",
+      "popularity": "-",
       "tuneKeys": [],
       "type": "polka",
       "weeksPlayed": 27
@@ -3693,18 +3709,18 @@
     {
       "lastPlayed": "2018-04-24",
       "name": "Pigeon On A Gate",
-      "popularity": "!",
+      "popularity": "-",
       "tuneKeys": [],
       "type": "reel",
       "weeksPlayed": 1
     },
     {
-      "lastPlayed": "2018-09-11",
+      "lastPlayed": "2018-10-09",
       "name": "Pipe On The Hob",
-      "popularity": "=",
+      "popularity": "+",
       "tuneKeys": [],
       "type": "jig",
-      "weeksPlayed": 12
+      "weeksPlayed": 13
     },
     {
       "lastPlayed": "2017-12-05",
@@ -3757,7 +3773,7 @@
     {
       "lastPlayed": "2018-09-04",
       "name": "Princess Nancy",
-      "popularity": "+",
+      "popularity": "=",
       "tuneKeys": [],
       "type": "jig",
       "weeksPlayed": 4
@@ -3771,14 +3787,14 @@
       "weeksPlayed": 12
     },
     {
-      "lastPlayed": "2018-09-11",
+      "lastPlayed": "2018-10-09",
       "name": "Pull The Knife And Stick It Again (in Am)",
-      "popularity": "=",
+      "popularity": "+",
       "tuneKeys": [
         "Am"
       ],
       "type": "jig",
-      "weeksPlayed": 21
+      "weeksPlayed": 22
     },
     {
       "lastPlayed": "2016-08-23",
@@ -3823,7 +3839,7 @@
     {
       "lastPlayed": "2018-05-29",
       "name": "Rambling Pitchfork",
-      "popularity": "-",
+      "popularity": "=",
       "tuneKeys": [],
       "type": "jig",
       "weeksPlayed": 24
@@ -3954,7 +3970,7 @@
     {
       "lastPlayed": "2018-04-17",
       "name": "Rolling In The Barrel",
-      "popularity": "+",
+      "popularity": "-",
       "tuneKeys": [],
       "type": "reel",
       "weeksPlayed": 4
@@ -4104,17 +4120,17 @@
       "weeksPlayed": 1
     },
     {
-      "lastPlayed": "2018-07-24",
+      "lastPlayed": "2018-10-09",
       "name": "Scartaglen",
       "popularity": "=",
       "tuneKeys": [],
       "type": "reel",
-      "weeksPlayed": 9
+      "weeksPlayed": 10
     },
     {
       "lastPlayed": "2018-08-28",
       "name": "Scattery Island",
-      "popularity": "=",
+      "popularity": "-",
       "tuneKeys": [],
       "type": "jig",
       "weeksPlayed": 21
@@ -4170,12 +4186,12 @@
       "weeksPlayed": 14
     },
     {
-      "lastPlayed": "2018-09-11",
+      "lastPlayed": "2018-10-09",
       "name": "Ships Are Sailing",
       "popularity": "=",
       "tuneKeys": [],
       "type": "reel",
-      "weeksPlayed": 8
+      "weeksPlayed": 9
     },
     {
       "lastPlayed": "2017-08-02",
@@ -4202,17 +4218,17 @@
       "weeksPlayed": 1
     },
     {
-      "lastPlayed": "2018-06-05",
+      "lastPlayed": "2018-10-09",
       "name": "Silver Spear",
       "popularity": "-",
       "tuneKeys": [],
       "type": "reel",
-      "weeksPlayed": 30
+      "weeksPlayed": 31
     },
     {
       "lastPlayed": "2018-07-24",
       "name": "Skylark",
-      "popularity": "=",
+      "popularity": "-",
       "tuneKeys": [],
       "type": "reel",
       "weeksPlayed": 17
@@ -4228,7 +4244,7 @@
     {
       "lastPlayed": "2017-11-07",
       "name": "Sliabh Russell",
-      "popularity": "-",
+      "popularity": "--",
       "tuneKeys": [],
       "type": "jig",
       "weeksPlayed": 4
@@ -4252,7 +4268,7 @@
     {
       "lastPlayed": "2018-04-17",
       "name": "Smiling Bride",
-      "popularity": "!",
+      "popularity": "-",
       "tuneKeys": [],
       "type": "jig",
       "weeksPlayed": 1
@@ -4274,12 +4290,12 @@
       "weeksPlayed": 2
     },
     {
-      "lastPlayed": "2018-04-17",
+      "lastPlayed": "2018-10-09",
       "name": "Sonny's",
       "popularity": "=",
       "tuneKeys": [],
       "type": "mazurka",
-      "weeksPlayed": 22
+      "weeksPlayed": 23
     },
     {
       "lastPlayed": "2017-12-05",
@@ -4298,12 +4314,12 @@
       "weeksPlayed": 21
     },
     {
-      "lastPlayed": "2018-06-05",
+      "lastPlayed": "2018-10-09",
       "name": "Spootiskerry",
       "popularity": "=",
       "tuneKeys": [],
       "type": "reel",
-      "weeksPlayed": 19
+      "weeksPlayed": 20
     },
     {
       "lastPlayed": "2018-08-28",
@@ -4386,12 +4402,12 @@
       "weeksPlayed": 20
     },
     {
-      "lastPlayed": "2018-08-07",
+      "lastPlayed": "2018-10-09",
       "name": "Star Of Munster",
       "popularity": "-",
       "tuneKeys": [],
       "type": "reel",
-      "weeksPlayed": 41
+      "weeksPlayed": 42
     },
     {
       "lastPlayed": "2016-11-29",
@@ -4428,7 +4444,7 @@
     {
       "lastPlayed": "2018-09-11",
       "name": "Swinging On A Gate",
-      "popularity": "=",
+      "popularity": "-",
       "tuneKeys": [],
       "type": "reel",
       "weeksPlayed": 46
@@ -4445,25 +4461,25 @@
       "weeksPlayed": 1
     },
     {
-      "lastPlayed": "2018-05-22",
+      "lastPlayed": "2018-10-09",
       "name": "Tar Road To Sligo",
-      "popularity": "-",
+      "popularity": "=",
       "tuneKeys": [],
       "type": "jig",
-      "weeksPlayed": 34
+      "weeksPlayed": 35
     },
     {
-      "lastPlayed": "2018-08-07",
+      "lastPlayed": "2018-10-09",
       "name": "Teetotaller's",
       "popularity": "=",
       "tuneKeys": [],
       "type": "reel",
-      "weeksPlayed": 3
+      "weeksPlayed": 4
     },
     {
       "lastPlayed": "2018-06-12",
       "name": "Tell Her I Am",
-      "popularity": "=",
+      "popularity": "+",
       "tuneKeys": [],
       "type": "jig",
       "weeksPlayed": 5
@@ -4483,6 +4499,14 @@
       "tuneKeys": [],
       "type": "reel",
       "weeksPlayed": 11
+    },
+    {
+      "lastPlayed": "2018-10-09",
+      "name": "Ten Pound Float",
+      "popularity": "!",
+      "tuneKeys": [],
+      "type": "reel",
+      "weeksPlayed": 1
     },
     {
       "lastPlayed": "2017-03-14",
@@ -4677,12 +4701,12 @@
       "weeksPlayed": 19
     },
     {
-      "lastPlayed": "2018-08-28",
+      "lastPlayed": "2018-10-09",
       "name": "The Cordal",
       "popularity": "+",
       "tuneKeys": [],
       "type": "jig",
-      "weeksPlayed": 2
+      "weeksPlayed": 3
     },
     {
       "lastPlayed": "2018-04-03",
@@ -4903,7 +4927,7 @@
     {
       "lastPlayed": "2017-10-31",
       "name": "The Hairy Chested Frog",
-      "popularity": "-",
+      "popularity": "--",
       "tuneKeys": [],
       "type": "reel",
       "weeksPlayed": 1
@@ -4997,12 +5021,12 @@
       "weeksPlayed": 4
     },
     {
-      "lastPlayed": "2018-04-17",
+      "lastPlayed": "2018-10-09",
       "name": "The Kinnegad Slashers",
       "popularity": "-",
       "tuneKeys": [],
       "type": "jig",
-      "weeksPlayed": 7
+      "weeksPlayed": 8
     },
     {
       "lastPlayed": "2018-08-21",
@@ -5015,7 +5039,7 @@
     {
       "lastPlayed": "2018-04-24",
       "name": "The Leading Role",
-      "popularity": "=",
+      "popularity": "-",
       "tuneKeys": [],
       "type": "reel",
       "weeksPlayed": 2
@@ -5023,7 +5047,7 @@
     {
       "lastPlayed": "2018-04-17",
       "name": "The League",
-      "popularity": "!",
+      "popularity": "-",
       "tuneKeys": [],
       "type": "reel",
       "weeksPlayed": 1
@@ -5119,7 +5143,7 @@
     {
       "lastPlayed": "2018-04-24",
       "name": "The Oak Tree",
-      "popularity": "!",
+      "popularity": "-",
       "tuneKeys": [],
       "type": "reel",
       "weeksPlayed": 1
@@ -5143,7 +5167,7 @@
     {
       "lastPlayed": "2018-04-24",
       "name": "The Other Boys Of The Town",
-      "popularity": "=",
+      "popularity": "-",
       "tuneKeys": [],
       "type": "jig",
       "weeksPlayed": 2
@@ -5151,7 +5175,7 @@
     {
       "lastPlayed": "2018-04-24",
       "name": "The Other Toss The Feathers",
-      "popularity": "=",
+      "popularity": "-",
       "tuneKeys": [],
       "type": "reel",
       "weeksPlayed": 3
@@ -5239,7 +5263,7 @@
     {
       "lastPlayed": "2018-08-21",
       "name": "The Red-Haired Boy",
-      "popularity": "=",
+      "popularity": "+",
       "tuneKeys": [],
       "type": "reel",
       "weeksPlayed": 5
@@ -5293,6 +5317,14 @@
       "weeksPlayed": 6
     },
     {
+      "lastPlayed": "2018-10-09",
+      "name": "The Shaals O' Foula",
+      "popularity": "!",
+      "tuneKeys": [],
+      "type": "jig",
+      "weeksPlayed": 1
+    },
+    {
       "lastPlayed": "2018-05-29",
       "name": "The Shaalvas",
       "popularity": "!",
@@ -5317,17 +5349,17 @@
       "weeksPlayed": 4
     },
     {
-      "lastPlayed": "2018-08-21",
+      "lastPlayed": "2018-10-09",
       "name": "The Tarbolton",
       "popularity": "=",
       "tuneKeys": [],
       "type": "reel",
-      "weeksPlayed": 13
+      "weeksPlayed": 14
     },
     {
       "lastPlayed": "2018-04-24",
       "name": "The Tattie Ball",
-      "popularity": "!",
+      "popularity": "-",
       "tuneKeys": [],
       "type": "reel",
       "weeksPlayed": 1
@@ -5421,12 +5453,12 @@
       "weeksPlayed": 1
     },
     {
-      "lastPlayed": "2018-08-28",
+      "lastPlayed": "2018-10-09",
       "name": "Timmy Clifford's",
       "popularity": "=",
       "tuneKeys": [],
       "type": "jig",
-      "weeksPlayed": 27
+      "weeksPlayed": 28
     },
     {
       "lastPlayed": "2018-07-31",
@@ -5479,7 +5511,7 @@
     {
       "lastPlayed": "2017-11-07",
       "name": "Tom Sullivan's",
-      "popularity": "-",
+      "popularity": "--",
       "tuneKeys": [],
       "type": "polka",
       "weeksPlayed": 1
@@ -5493,12 +5525,12 @@
       "weeksPlayed": 2
     },
     {
-      "lastPlayed": "2018-09-11",
+      "lastPlayed": "2018-10-09",
       "name": "Tommy Mulhair's",
       "popularity": "=",
       "tuneKeys": [],
       "type": "jig",
-      "weeksPlayed": 34
+      "weeksPlayed": 35
     },
     {
       "lastPlayed": "2018-08-07",
@@ -5509,12 +5541,12 @@
       "weeksPlayed": 3
     },
     {
-      "lastPlayed": "2018-08-07",
+      "lastPlayed": "2018-10-09",
       "name": "Tommy Peoples'",
       "popularity": "=",
       "tuneKeys": [],
       "type": "mazurka",
-      "weeksPlayed": 16
+      "weeksPlayed": 17
     },
     {
       "lastPlayed": "2018-08-07",
@@ -5549,7 +5581,7 @@
       "weeksPlayed": 25
     },
     {
-      "lastPlayed": "2018-08-07",
+      "lastPlayed": "2018-10-09",
       "name": "Toss The Feathers (in Bm,Dm,Dmix)",
       "popularity": "-",
       "tuneKeys": [
@@ -5558,7 +5590,7 @@
         "Dmix"
       ],
       "type": "reel",
-      "weeksPlayed": 27
+      "weeksPlayed": 28
     },
     {
       "lastPlayed": "2018-07-17",
@@ -5579,23 +5611,23 @@
     {
       "lastPlayed": "2018-04-17",
       "name": "Trip To Sligo",
-      "popularity": "!",
+      "popularity": "-",
       "tuneKeys": [],
       "type": "jig",
       "weeksPlayed": 1
     },
     {
-      "lastPlayed": "2018-09-11",
+      "lastPlayed": "2018-10-09",
       "name": "Trip To The Cottage",
       "popularity": "+",
       "tuneKeys": [],
       "type": "jig",
-      "weeksPlayed": 2
+      "weeksPlayed": 3
     },
     {
       "lastPlayed": "2018-07-31",
       "name": "Tripping Up The Stairs",
-      "popularity": "=",
+      "popularity": "-",
       "tuneKeys": [],
       "type": "jig",
       "weeksPlayed": 36
@@ -5609,12 +5641,12 @@
       "weeksPlayed": 2
     },
     {
-      "lastPlayed": "2018-08-07",
+      "lastPlayed": "2018-10-09",
       "name": "Tuttle's",
       "popularity": "=",
       "tuneKeys": [],
       "type": "reel",
-      "weeksPlayed": 21
+      "weeksPlayed": 22
     },
     {
       "lastPlayed": "2018-07-24",
@@ -5625,12 +5657,12 @@
       "weeksPlayed": 16
     },
     {
-      "lastPlayed": "2018-09-04",
+      "lastPlayed": "2018-10-09",
       "name": "Virginia",
       "popularity": "=",
       "tuneKeys": [],
       "type": "reel",
-      "weeksPlayed": 49
+      "weeksPlayed": 50
     },
     {
       "lastPlayed": "2016-08-09",
@@ -5707,7 +5739,7 @@
     {
       "lastPlayed": "2018-09-11",
       "name": "Willie Coleman's",
-      "popularity": "=",
+      "popularity": "-",
       "tuneKeys": [],
       "type": "jig",
       "weeksPlayed": 27
@@ -5800,5 +5832,5 @@
     "song",
     "waltz"
   ],
-  "weeksRecorded": 115
+  "weeksRecorded": 116
 }
